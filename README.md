@@ -1,1 +1,2 @@
 # Digital-Reconstruction-of-Monuments-with-Generative-AI
+Developed PhoenixAI, an interactive tool for restoring damaged historical monuments using Stable Diffusion XL, ControlNet, and MiDaS depth maps. The system ensures architectural fidelity while allowing creative control through a Gradio-based interface. Optimized for cloud execution (Google Colab, GPU T4), the project blends computer vision, generative AI, and cultural heritage, with applications in education, digital preservation, and virtual architecture.
